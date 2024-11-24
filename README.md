@@ -1,7 +1,3 @@
-Here's a sample `.md` file for the **Bank Customer Churn Analysis** project based on your previous request structure:
-
----
-
 # **Bank Customer Churn Analysis**
 
 ## **Project Overview**
